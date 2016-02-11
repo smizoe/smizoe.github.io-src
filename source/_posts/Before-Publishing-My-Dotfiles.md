@@ -25,6 +25,8 @@ To bring my repository to a publishable state, I followed the following steps:
 
 In this post, I explain the steps above I took.
 
+<!-- more -->
+
 Removal of Sensitive Data
 -------------------------
 github has an article on [removing sensitve data](https://help.github.com/articles/remove-sensitive-data/) and I followed the way the article describes.
