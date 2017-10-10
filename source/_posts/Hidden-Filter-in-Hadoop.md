@@ -4,6 +4,7 @@ tags:
   - Hadoop
   - MapReduce
 date: 2016-03-28 22:16:02
+comments: true
 ---
 
 

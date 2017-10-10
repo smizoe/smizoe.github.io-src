@@ -4,6 +4,7 @@ tags:
   - git
   - ansible
 date: 2016-02-09 21:07:25
+comments: true
 ---
 
 
@@ -61,5 +62,3 @@ in the following manner (except from [my repository](https://github.com/smizoe/d
   copy: content="{{lookup('file', item.path)}}" dest="{{home}}/dotfiles/{{item.path| relpath(role_path ~ '/files')}}"
   with_items: encrypted_files.files
 ```
-
-

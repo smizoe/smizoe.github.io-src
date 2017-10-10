@@ -5,6 +5,7 @@ tags:
   - HBase
   - MapReduce
 date: 2016-03-06 09:40:48
+comments: true
 ---
 
 
